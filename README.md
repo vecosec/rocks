@@ -27,6 +27,7 @@ Vecosec.rocks is designed as a creative and visually appealing portfolio that sh
 ## 📂 Repository Structure
 ```
 ├── index.html           # Main HTML file
+├── billie227.html       # some index
 ├── css/                 # Stylesheets
 ├── js/                  # JavaScript files
 └── README.md            # Project documentation (this file)
