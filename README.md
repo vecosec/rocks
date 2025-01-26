@@ -4,7 +4,7 @@ Welcome to **Vecosec.rocks**, a bold, anime-inspired portfolio website that does
 
 ## About the Website
 
-Vecosec.rocks is here to flex style and functionality. This isn’t your typical portfolio—it’s a cosmic journey
+Vecosec.rocks is here to flex style and functionality. This isn’t your typical portfolio—it’s a cosmic journey.. maybe
 
 ## 🔗 Website
 
