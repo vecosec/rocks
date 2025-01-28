@@ -30,6 +30,7 @@ Vecosec.rocks is designed as a creative and visually appealing portfolio that sh
 ├── billie227.html       # some index
 ├── css/                 # Stylesheets
 ├── js/                  # JavaScript files
+├── AnimeMain.mp4        # the bg vid
 └── README.md            # Project documentation (this file)
 ```
 
